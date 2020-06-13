@@ -1,0 +1,89 @@
+body {
+  font-family: "Noto Sans HK", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lexend Tera', sans-serif;
+}
+
+.jumbotron {
+  font-family: "Alata", sans-serif;
+  color: rgb(7, 51, 18);
+  margin-bottom: 30px;
+  background-image: url("https://img.icons8.com/fluetn/500/000000/news.png");
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* text-shadow: rgb(253, 252, 252) 0.3em 0.3em 0.3em; */
+}
+
+.btn-scrape {
+  margin-top: 8px;
+  background-color: greenyellow;
+}
+
+.panel {
+  box-shadow: 5px 6px 8px #d3cbcb;
+}
+
+.fade-panel {
+  opacity: 1;
+  transition: all 2.5s ease-in-out;
+}
+
+.panel-margin {
+  margin-top: 30px;
+}
+
+.panel-title {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.summary {
+  font-size: 16px;
+}
+
+button.btn-save {
+  justify-items: right;
+}
+
+.delete {
+  margin-right: 10px;
+}
+
+.notes {
+  margin-right: 10px;
+}
+
+.note {
+  line-height: 30px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+@media (max-width: 1200px) {
+  button.notes,
+  button.delete,
+  button.btn-save {
+    margin-top: 10px;
+  }
+  .pull-right {
+    float: left !important;
+  }
+}
+
+@media (max-width: 1000px) {
+  .news-thumb {
+    margin-bottom: 5px;
+  }
+}
+
+@media (max-width: 400px) {
+  .note-textarea {
+    width: 100%;
+  }
+}
