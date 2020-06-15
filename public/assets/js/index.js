@@ -106,7 +106,7 @@ $(document).ready(() => {
   }
 
   function handleArticleScrape() {
-    // scrape NPR, compare to articles already in db
+    // scrape VOX, compare to articles already in db
     // re-render to DOM and alert user to number (if any) of new articles saved
     $.get("/api/fetch").then(data => {
       initPage();
