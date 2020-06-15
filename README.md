@@ -1,5 +1,5 @@
 # MongO-News
-# "Ladies and Gentleman. Can I please have your attention? I've been handed an urgent and horrifying news story and I need all of you to stop what your doing and LISTEN!!!... CAAAAAANNNONBAAALLLL!" - Ron Burgundy
+# "Ladies and Gentleman. Can I please have your attention? I've been handed an urgent and horrifying news story and I need all of you to stop what your doing and scrape a news site using this tool!!!... CAAAAAANNNONBAAALLLL!" - Ron Burgundy-esque
 
 Well I suppose it takes all types. Here is something for you then. This news scraper, scrapes all the latest headings from vox.com. And if you love the news, and can't get enough of it, you should visit this page daily and scrape for new news daily!!!
 
