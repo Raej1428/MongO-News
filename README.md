@@ -10,7 +10,7 @@ Dependencies:
 - mongo Shell
 - Cheerio
 - Axios
-- Handlebars (eyeroll)
+- Handlebars 
 
 ![first screenshot](https://github.com/Raej1428/MongO-News/blob/master/VoxScrape.png)
 
