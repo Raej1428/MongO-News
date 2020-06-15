@@ -12,7 +12,7 @@ Dependencies:
 - Axios
 - Handlebars (eyeroll)
 
-![first screenshot]()
+![first screenshot]("https://github.com/Raej1428/MongO-News/blob/master/VoxScrape.png")
 
 TODO:
 - Working on the correct img src. You see vox has a dynamic image tag which is easy to grab but the img src tag that will actually pull up the img is embedded in a noscript element which will require more code to make that img appear.
