@@ -7,7 +7,6 @@ const Schema = mongoose.Schema;
 const HeadlineSchema = new Schema({
   title: {
     type: String,
-    unique: { index: { unique: true } },
     required: true
   },
   url: {
@@ -27,10 +26,6 @@ const HeadlineSchema = new Schema({
   saved: {
     type: Boolean,
     default: false
-  },
-  date: {
-    type: Date,
-    default: Date.now
   },
    // `note` is an object that stores a Note id
   // The ref property links the ObjectId to the Note model
